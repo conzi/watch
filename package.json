@@ -1,0 +1,11 @@
+{
+  "name": "watch",
+  "version": "1.0.0",
+  "description": "monitor for changes of your files ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tconzi@gmail.com",
+  "license": "MIT"
+}
